@@ -1,4 +1,4 @@
-# SA.NoExtraAirResistance
+# No Extra Resistance
 
 In order to optimize the game, Rockstar slows the player down in specific areas of the map using zones which have "extra air resistance". This is done through "cull.ipl", which contains all of the cull zones on the map, one of the possible flags for a cull zone is "ExtraAirResistance".
 
